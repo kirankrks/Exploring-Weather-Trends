@@ -1,0 +1,5 @@
+Select * from city_list where country = 'Australia';
+
+Select * from city_data where city = 'Melbourne' and country = 'Australia';
+
+Select * from global_data; 
